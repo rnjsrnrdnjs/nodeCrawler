@@ -1,0 +1,24 @@
+{
+  "name": "k",
+  "version": "1.0.0",
+  "description": "study",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio-httpcli": "^0.8.1",
+    "yum": "^0.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/rnjsrnrdnjs/nodeCrawler.git"
+  },
+  "author": "090",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rnjsrnrdnjs/nodeCrawler/issues"
+  },
+  "homepage": "https://github.com/rnjsrnrdnjs/nodeCrawler#readme"
+}

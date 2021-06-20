@@ -1,5 +1,5 @@
 // 웹 사이트로의 타이틀을 표시
-var TARGET_URL = "http://jpub.tistory.com";
+var TARGET_URL = "https://solved.ac/profile/rnjsrnrdnjs";
 
 // CaperJS의 객체 생성 ---- (※1)
 var casper = require('casper').create();
