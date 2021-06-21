@@ -5,6 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "cheerio-httpcli": "^0.8.1",
+    "sqlite3": "^5.0.2",
     "yum": "^0.1.1"
   },
   "devDependencies": {},
